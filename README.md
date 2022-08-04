@@ -14,4 +14,4 @@ download the exploit.sh file and modify the $var value to execute the command yo
 cat /output to see the output of the command ran.
 
 # Case of Use
-use exploit.sh to list users and grab possible .ssh keys to connect to the host machine through ssh service if available, list networks of the organization, users, services installed, etc.
+use exploit.sh to list users and grab possible .ssh authorized_keys to connect to the host machine through ssh service if available, list networks of the organization, users, services installed, etc.
